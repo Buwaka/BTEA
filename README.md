@@ -1,4 +1,7 @@
 # XXTEA encryption implementation.
+XXTEA is the 2nd iteration on TEA (Tiny Encryption Algorithm). It is known for how compact, yet effective of an encryption algorithm it is.
+https://en.wikipedia.org/wiki/XXTEA
+
 
 ## Introduction
 
